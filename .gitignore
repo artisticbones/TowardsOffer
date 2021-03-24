@@ -1,0 +1,20 @@
+#C and C++
+*
+!.gitignore
+!*/
+!*.md
+!*.cpp
+!*.cxx
+!*.c
+!*.cc
+!*.h
+!.**/*.md
+!.**/*.cpp
+!.**/*.cxx
+!.**/*.c
+!.**/*.cc
+!.**/*.h
+
+#java
+!*.java
+!.**/*.java
